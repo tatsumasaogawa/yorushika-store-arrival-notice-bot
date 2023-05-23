@@ -20,8 +20,8 @@ TOKEN = 'ここにAPIトークンを入力'
 #APIのURL
 api_url = 'https://notify-api.line.me/api/notify'
 #通知内容１
-send_content_01 = 'パーカーはまだ入荷待ちだよ。'
-send_content_02 = 'パーカーが再入荷したよ。購入はこちら→ここに商品ページのURLを入力'
+send_content_01 = 'ここに商品名を入力 はまだ入荷待ちだよ。'
+send_content_02 = 'ここに商品名を入力 が再入荷したよ。購入はこちら→ここに商品ページのURLを入力'
 
 #情報を辞書型にする
 TOKEN_dic = {'Authorization':'Bearer' + ' ' + TOKEN}

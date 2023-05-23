@@ -1,1 +1,1 @@
-# ヨルシカ official store 入荷通知
+# ヨルシカ official store 入荷通知BOT
